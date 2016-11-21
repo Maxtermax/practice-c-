@@ -4,12 +4,12 @@ Practice for scratch, basic prototiping of utils for manipulate array.
  g++ compiler 
  
 ## Compiling 
-`g++ hello.cpp -o hello.exe`
+`g++ main.cpp -o main.exe`
 
 ##  Usage Example
 Testing multiples functions that do operations on the array and return information like:
 ```
-  ./hello.exe
+  ./main.exe
   
   90 : maximum
   1: minimum
@@ -21,4 +21,4 @@ Testing multiples functions that do operations on the array and return informati
 or more short 
 
 
-`g++ hello.cpp -o hello.exe && ./hello.exe`
+`g++ main.cpp -o main.exe && ./main.exe`
